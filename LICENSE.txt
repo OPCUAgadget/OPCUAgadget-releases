@@ -1,0 +1,40 @@
+OPCUAgadget – Proprietary License
+Copyright (c) 2026. All rights reserved.
+
+This software and associated documentation files (the "Software") are the
+exclusive property of the author.
+
+Permission is granted to use the Software solely in accordance with the terms
+of a valid license agreement obtained from the author.
+
+Unless explicitly permitted in writing by the author, you may NOT:
+
+  - Copy, modify, merge, publish, or distribute the Software or any
+    derivative works based on it
+  - Sublicense or sell copies of the Software
+  - Reverse engineer, decompile, or disassemble the Software
+  - Remove or alter any proprietary notices, labels, or marks
+  - Use the Software beyond the scope of the license granted to you
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+Use of the Software constitutes acceptance of these terms.
+
+-------------------------------------------------------------------------------
+
+THIRD-PARTY COMPONENTS
+
+This Software includes third-party components distributed under their own
+licenses. See THIRD_PARTY_NOTICES.txt for full details.
+
+The inclusion of LGPL-licensed components (asyncua) does not affect the
+proprietary status of this Software. The asyncua library is used unmodified
+and is distributed in the _internal/ folder of this application, where it
+remains accessible and replaceable in accordance with LGPL v3 requirements.
